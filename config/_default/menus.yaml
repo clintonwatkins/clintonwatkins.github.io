@@ -1,0 +1,53 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: ダンス (Dance)
+    url: slides/dance/
+    weight: 10
+  - name: 秋田竿燈まつり (Kanto Matsuri)
+    url: slides/kanto/
+    weight: 20 
+  - name: Places Nearby
+    url: slides/nearby/
+    weight: 30
+  - name: 日本酒 (Sake)
+    url: slides/nihonshu
+    weight: 40
+    
+    
+  - name: Snaps 
+    weight: 60
+    
+  - name: Random
+    parent: Snaps
+    url: random/
+    weight: 10
+  - name: Portraits
+    parent: Snaps
+    url: portrait/
+    weight: 20
+  - name: Landscape
+    parent: Snaps
+    url: landscape/
+    weight: 30
+  - name: Moth Sailing
+    parent: Snaps
+    url: moth/
+    weight: 40
+    
+    
+    
+    
+  - name: Posts
+    url: '#post'
+    weight: 80
+  - name: About
+    url: about/
+    weight: 90
+  - name: Contact
+    url: contact/
+    weight: 100
+
