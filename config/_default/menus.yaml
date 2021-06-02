@@ -21,6 +21,10 @@ main:
   - name: Snaps 
     weight: 60
     
+  - name: photoblog
+    parent: Snaps
+    url: recent/
+    weight: 05
   - name: Random
     parent: Snaps
     url: random/
@@ -37,13 +41,7 @@ main:
     parent: Snaps
     url: moth/
     weight: 40
-    
-    
-    
-    
-  - name: Posts
-    url: '#post'
-    weight: 80
+     
   - name: About
     url: about/
     weight: 90

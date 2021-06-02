@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = {highlight_style: "github", theme: "simple"};
+  var slides = {highlight_style: null, theme: "simple"};
 
   // ns-hugo:/Users/clinton/Dropbox/application_data/GitHub/clintonwatkins.github.io/themes/github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/js/wowchemy-utils.js
   function fixMermaid(render = false) {
