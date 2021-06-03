@@ -17,7 +17,7 @@
     <loc>/post/2021-05-28/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/</loc>
+    <loc>/archive/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/landscape/</loc>
@@ -26,13 +26,13 @@
     <loc>/moth/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/recent/</loc>
-    <lastmod>2021-05-22T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/portrait/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/random/</loc>
+    <lastmod>2021-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/recent/</loc>
     <lastmod>2021-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/slides/nearby/</loc>
@@ -63,8 +63,6 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/publication_types/</loc>
-  </url><url>
-    <loc>/publication/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>
