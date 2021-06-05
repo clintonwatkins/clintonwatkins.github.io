@@ -13,9 +13,9 @@ font_size: s
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
-description: ''
+local_business_type: 'Photography and print-making'
+org_name: 'Clinton Watkins Photography'
+description: 'Clinton Watkins, photographer interested in film photography, making photographic prints in the darkroom, residing in Akita and Tokyo Japan.'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -24,11 +24,11 @@ email:
 phone: 
 address:
   street: 
-  city: 
+  city: Akita and Tokyo
   region: 
   postcode: 
-  country: 
-  country_code: 
+  country: Japan
+  country_code: JP
 coordinates:
   latitude: 
   longitude: 
