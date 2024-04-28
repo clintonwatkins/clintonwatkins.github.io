@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/photographs/index.html",
+    "items": [
+      "/photographs/series/01/index.html",
+      "/photographs/series/05/index.html",
+      "/photographs/series/03/index.html",
+      "/photographs/series/06/index.html",
+      "/photographs/series/07/index.html",
+      "/photographs/series/09/index.html",
+      "/photographs/series/02/index.html",
+      "/photographs/series/08/index.html",
+      "/photographs/series/04/index.html"
+    ]
+  },
+  {
+    "listing": "/journal/index.html",
+    "items": [
+      "/journal/posts/03/index.html",
+      "/journal/posts/01/index.html",
+      "/journal/posts/02/index.html"
+    ]
+  }
+]
