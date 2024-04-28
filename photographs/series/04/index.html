@@ -146,16 +146,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="01.jpg" class="lightbox" data-gallery="moth_sailing"><img src="01.jpg" class="img-fluid" style="width:99.7%"></a></p>
-<p><a href="02.jpg" class="lightbox" data-gallery="moth_sailing"><img src="02.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="03.jpg" class="lightbox" data-gallery="moth_sailing"><img src="03.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="04.jpg" class="lightbox" data-gallery="moth_sailing"><img src="04.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="05.jpg" class="lightbox" data-gallery="moth_sailing"><img src="05.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="06.jpg" class="lightbox" data-gallery="moth_sailing"><img src="06.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="07.jpg" class="lightbox" data-gallery="moth_sailing"><img src="07.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="08.jpg" class="lightbox" data-gallery="moth_sailing"><img src="08.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="09.jpg" class="lightbox" data-gallery="moth_sailing"><img src="09.jpg" class="img-fluid" style="width:32.9%"></a></p>
-<p><a href="10.jpg" class="lightbox" data-gallery="moth_sailing"><img src="10.jpg" class="img-fluid" style="width:32.9%"></a></p>
+<p><a href="01.jpg" class="lightbox" data-gallery="moth_sailing"><img src="01.jpg" class="img-fluid" style="width:97.5%"></a></p>
+<p><a href="02.jpg" class="lightbox" data-gallery="moth_sailing"><img src="02.jpg" class="img-fluid" style="width:32.0%"></a> <a href="03.jpg" class="lightbox" data-gallery="moth_sailing"><img src="03.jpg" class="img-fluid" style="width:32.0%"></a> <a href="04.jpg" class="lightbox" data-gallery="moth_sailing"><img src="04.jpg" class="img-fluid" style="width:32.0%"></a></p>
+<p><a href="05.jpg" class="lightbox" data-gallery="moth_sailing"><img src="05.jpg" class="img-fluid" style="width:97.5%"></a></p>
+<p><a href="06.jpg" class="lightbox" data-gallery="moth_sailing"><img src="06.jpg" class="img-fluid" style="width:47.5%"></a> <a href="07.jpg" class="lightbox" data-gallery="moth_sailing"><img src="07.jpg" class="img-fluid" style="width:47.5%"></a></p>
+<p><a href="08.jpg" class="lightbox" data-gallery="moth_sailing"><img src="08.jpg" class="img-fluid" style="width:47.5%"></a> <a href="09.jpg" class="lightbox" data-gallery="moth_sailing"><img src="09.jpg" class="img-fluid" style="width:47.5%"></a></p>
+<p><a href="10.jpg" class="lightbox" data-gallery="moth_sailing"><img src="10.jpg" class="img-fluid" style="width:97.5%"></a></p>
 
 
 
@@ -727,7 +723,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"descPosition":"right","loop":true,"openEffect":"fade","selector":".lightbox","closeEffect":"fade"});
+<script>var lightboxQuarto = GLightbox({"openEffect":"fade","closeEffect":"fade","selector":".lightbox","descPosition":"right","loop":true});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;

@@ -46,7 +46,7 @@
     "href": "journal/posts/03/index.html",
     "title": "Website migration",
     "section": "",
-    "text": "I finally migrated my website to Quarto. The old version used Hugo and with the various modifications I made, was tedious to update. Quarto allows a simple and clean site that should be easy to maintain."
+    "text": "I finally migrated my website to Quarto. The old version used Hugo and with the various modifications I made, was tedious to update. Quarto allows a simple and clean site that should be easy to maintain. I used the “lightbox” extension for the photographs."
   },
   {
     "objectID": "photographs/series/01/index.html",
